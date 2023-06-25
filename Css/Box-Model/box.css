@@ -1,0 +1,12 @@
+h1{
+    border-top: 10px solid black;
+    border-bottom: 20px dashed blue;
+    border-left:150px dotted orange;
+    border-right: 30px double green;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 50px;
+    text-align: center;
+    color: blueviolet;
+}

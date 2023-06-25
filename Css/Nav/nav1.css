@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+.sec1{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    position: sticky;
+    top: 0;
+}
+article{
+    height: 50px;
+    width: 80%;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: space-around;
+}
+.sec img{
+    height:600px;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}

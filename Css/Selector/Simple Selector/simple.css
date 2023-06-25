@@ -1,0 +1,15 @@
+p{
+    color: crimson;
+}
+
+#p2{
+    color: green;
+}
+
+.p3{
+    background-color: blue;
+}
+
+#p4,.p3,h1{
+    background-color: aqua;
+}

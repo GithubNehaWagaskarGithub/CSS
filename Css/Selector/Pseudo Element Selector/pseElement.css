@@ -1,0 +1,24 @@
+p::first-line{
+    background-color: chartreuse;
+}
+
+p::first-letter{
+    font-size: 70px;
+}
+
+p::before{
+    content: url(https://em-content.zobj.net/thumbs/120/google/350/sparkling-heart_1f496.png);
+}
+
+p::after{
+    content: url(https://em-content.zobj.net/thumbs/120/apple/354/grinning-face_1f600.png);
+}
+
+p::selection{
+    background-color: black;
+    color: red;/* ??????? */
+}
+
+li::marker{
+    color: orange;
+}

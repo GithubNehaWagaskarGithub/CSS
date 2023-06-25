@@ -1,0 +1,18 @@
+h1{
+    color: cornflowerblue;
+    text-align: center;
+    text-shadow: 10px 5px 4px black;
+    text-indent: 100px; /* move from original position */
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: brown;
+    text-transform: capitalize;
+}
+
+p{
+    text-decoration: line-through;
+}
+
+a{
+    text-decoration: none;/* to remove the underline of content */
+}

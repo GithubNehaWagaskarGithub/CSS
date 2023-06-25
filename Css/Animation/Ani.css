@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    animation: Ani 5s ease-in-out 10s infinite;
+    
+}
+@keyframes Ani {
+    0%{
+        transform: rotate(0deg);
+        background-color: aqua;
+        border-radius: 10%;
+    }
+    20%{
+        transform: rotate(45deg);
+        background-color: purple;
+        border-radius: 15%;
+    }
+    40%{
+        transform: rotate(90deg);
+        background-color: red;
+        border-radius: 20%;
+    }
+    60%{
+        transform: rotate(135deg);
+        background-color: palevioletred;
+        border-radius: 30%;
+    }
+    80%{
+        transform: rotate(360deg);
+        background-color: green;
+        border-radius: 40%;
+    }
+    100%{
+        transform: rotate(1200deg);
+        background-color: orange;
+        border-radius: 50%;
+    }
+}

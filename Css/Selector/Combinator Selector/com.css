@@ -1,0 +1,19 @@
+div{
+    color: red;
+}
+
+div p{
+    background-color: blue;
+}
+
+div > p{
+    background-color: black;
+}
+
+div ~ p{
+    font-size: 30px;
+}
+
+div + p{
+    color: orangered;
+}

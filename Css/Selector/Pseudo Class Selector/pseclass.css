@@ -1,0 +1,51 @@
+p:first-child{
+    color:crimson;
+}
+
+p:first-of-type{
+    color:black;
+}
+
+p:last-child{
+    color: Green;
+}
+
+p:last-of-type{
+    background-color: peru;
+}
+
+p:nth-child(odd){
+    color: brown;
+}
+
+p:nth-child(even){
+    color: blue;
+}
+
+/* a:visited{
+    color: orange;
+}
+
+a:link{
+    color: Green;
+}
+
+a:active{
+    color: Black;
+}
+
+p:hover{
+    color: yellow;
+    background-color: black;
+}
+
+img{
+    display:none;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+div:hover img{
+    display: block;
+} */

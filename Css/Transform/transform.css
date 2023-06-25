@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+}
+/* div:hover{
+    transform: rotate(50deg);
+} */
+
+/* div:hover{
+    transform: scale(1.5);
+} */
+
+/* div:hover{
+    transform: skew(30deg);
+} */
+
+/* div:hover{
+    transform: translate(100px,200px);
+} */
+
+div{
+    transform:translate(100px,200px) ;
+}

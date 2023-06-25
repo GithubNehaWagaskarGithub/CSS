@@ -1,0 +1,13 @@
+section{
+    height: 70vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content:flex-end;
+    align-items:end;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}

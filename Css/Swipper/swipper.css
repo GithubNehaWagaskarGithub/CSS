@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sec{
+    height:800px;
+    width: 100%;
+}
+.sec .mySwiper{
+    height: 800px;
+    width: 100%;
+}
+.sec .mySwiper img{
+    height: 90%;
+    width: 100%;
+}

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+section{
+    height: 50vh;
+    width: 100%;
+    background-color: black;
+    
+}
+.row{
+    height: 50px;
+    width: 100%;
+    /* background-color: blueviolet; */
+    padding-top: 100px;
+   
+}
+.row .column1{
+    height: 50px;
+    width: 280px;
+    background-color: blue;
+}
+.row .column2{
+    height: 50px;
+    width: 280px;
+    background-color:purple;
+}
+.row .column3{
+    height: 50px;
+    width: 280px;
+    background-color: crimson;
+}
+
+.row1{
+    height: 50px;
+    width: 100%;
+    background-color: blueviolet;
+    margin-top: 50px;
+}
